@@ -1,0 +1,27 @@
+body {
+    background-color: #f1f0eb;
+}
+
+#heading {
+    text-align: center;
+    background-color: #4056a1;
+    color: rgb(252, 250, 250);
+    padding: 15px;
+    margin: 0%;
+    box-shadow: 7px 7px 7px rgb(146, 159, 236);
+}
+
+#song_name {
+    text-align: center;
+    background-color: #5c80e2;
+    font-size: 20px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 3px #628af9;
+}
+
+canvas {
+    border: 5px solid #efe1ba;
+    padding: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 150px;
+}
